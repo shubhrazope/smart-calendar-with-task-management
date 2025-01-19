@@ -1,27 +1,27 @@
 # Smart Calendar Task Manager
 
-A simple Python-powered app to manage your tasks, set priorities, and stay organized. Whether you're planning your day or juggling multiple projects, this app has got you covered.
+Python-based app to manage your tasks, set priorities, and stay organized.
 
 ## Features
 - Add, update, delete, and view tasks.
 - Set task priorities: High, Medium, or Low.
 - Assign due dates and set reminders.
-- View tasks in an interactive calendar.
-- Categorize tasks for better organization.
+- View tasks in calendar form.
+- Organize Tasks.
 
 ## Tools
-- **Python**: Core application logic.
-- **Tkinter**: For building the user interface.
-- **MySQL**: To store and manage tasks.
-- **Pandas**: For data handling and processing.
+- Python
+- Tkinter
+- MySQL
+- Pandas
 
 ## Installation
 
-1. **Clone the repo**:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/smart-calendar-task-manager.git
    ```
-2. Navigate to the project folder:
+2. Go to the project folder:
    ```bash
    cd smart-calendar-task-manager
    ```
