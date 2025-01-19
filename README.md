@@ -33,3 +33,6 @@ A simple Python-powered app to manage your tasks, set priorities, and stay organ
    ```bash
    python main.py
    ```
+
+## Note
+Replace your_username and your_password with your actual MySQL credentials in database.py
